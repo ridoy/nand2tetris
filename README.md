@@ -9,7 +9,7 @@ Now I'm going back through the book and completing the projects at the end of ea
 
 - [x] 1: Logic gates and muxers/dmuxers
 - [x] 2: Adders and ALU
-- [ ] 3: Registers and RAM
+- [x] 3: Registers and RAM
 - [ ] 4: Assembly to machine language
 - [ ] 5: Hardware platform
 - [ ] 6: Assembler
